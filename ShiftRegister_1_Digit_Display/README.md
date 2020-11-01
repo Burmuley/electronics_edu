@@ -36,3 +36,6 @@ o-----+-----------------------------------+
  -    |                                 |                                            |
 o-----+---------------------------------+--------------------------------------------+
 ```
+
+Code snippets:
+1. [shiftreg_1digit_simple](shiftreg_1digit_simple) - simple sketch displays a sequence of numbers and some letters on 1-digit display with some delay
